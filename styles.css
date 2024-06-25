@@ -1,3 +1,8 @@
+#missingad {
+	position:fixed;
+	bottom:0px;
+	right:0px;
+}
 * {
   box-sizing:border-box;
 }
