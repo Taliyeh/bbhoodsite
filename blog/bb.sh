@@ -20,18 +20,18 @@ global_variables() {
     global_software_version="2.10"
 
     # Blog title
-    global_title="My fancy blog"
+    global_title="My Awesome Blog"
     # The typical subtitle for each blog
-    global_description="A blog about turtles and carrots"
+    global_description="A blog about whatever I feel like"
     # The public base URL for this blog
-    global_url="http://example.com/blog"
+    global_url="http://bbhood.ca/blog"
 
     # Your name
-    global_author="John Smith"
+    global_author="Maggie"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="http://twitter.com/example" 
+    global_author_url="http://twitter.com/dokidokigalaxy" 
     # Your email
-    global_email="john@smith.com"
+    global_email="bulleta@bbhood.ca"
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
     global_license="CC by-nc-nd"
@@ -48,7 +48,7 @@ global_variables() {
     global_feedburner=""
 
     # Change this to your username if you want to use twitter for comments
-    global_twitter_username=""
+    global_twitter_username="dokidokigalaxy"
     # Default image for the Twitter cards. Use an absolute URL
     global_twitter_card_image=""
     # Set this to false for a Twitter button with share count. The cookieless version
