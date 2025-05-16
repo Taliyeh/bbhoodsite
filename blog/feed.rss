@@ -2,9 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>My Awesome Blog</title><link>http://bbhood.ca/blog/index.html</link>
 <description>A blog about whatever I feel like</description><language>en</language>
-<lastBuildDate>Thu, 15 May 2025 22:13:47 -0230</lastBuildDate>
-<pubDate>Thu, 15 May 2025 22:13:47 -0230</pubDate>
+<lastBuildDate>Fri, 16 May 2025 10:34:47 -0230</lastBuildDate>
+<pubDate>Fri, 16 May 2025 10:34:47 -0230</pubDate>
 <atom:link href="http://bbhood.ca/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Linux-Professor-For-A-Day
+</title><description><![CDATA[
+
+<p>I just spent 2 hrs troubleshooting apache server issues for my entire class after getting the lab done in like, 30 minutes lol. Turns out apache is really easy! You just gotta know that you don't fuck with linux! If it has no space, you do <b>NOT</b> add a space unless you want to cause problems.</p>
+<p>DocumentRoot =/ Document Root, and you need to write out exactly what the conf wants!<b> READ!!! PLEASE READ!!!</b></p>
+<p>Either way, really good practice-- I really, really wanna stay proficient with Linux this time, using Linux a few years back was really nice and the problems it has are super overstated imo. Though, I guess that depends on distro.</p>
+<p>Tags: <a href='tag_may-2025.html'>may-2025</a>, <a href='tag_linux.html'>linux</a>, <a href='tag_school.html'>school</a></p>
+<!-- text end -->
+<p id='twitter'><a href='http://twitter.com/intent/tweet?url=http://bbhood.ca/blog/linux-professor-for-a-day.html&text=&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;&via=dokidokigalaxy'>Comments? Tweet</a> 
+<a href='https://twitter.com/search?q=http://bbhood.ca/blog/linux-professor-for-a-day.html'><span id='count-20'></span></a>&nbsp;</p>
+]]></description><link>http://bbhood.ca/blog/linux-professor-for-a-day.html</link>
+<guid>http://bbhood.ca/blog/./linux-professor-for-a-day.html</guid>
+<dc:creator>Maggie</dc:creator>
+<pubDate>Fri, 16 May 2025 10:34:45 -0230</pubDate></item>
 <item><title>
 That first blog is written like I had a gun to my head
 </title><description><![CDATA[
